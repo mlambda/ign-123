@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<GeneralStatistics>
+    <Statistic name="count">
+        <StatisticMap key="1" value="202276" />
+        <StatisticMap key="2" value="6180" />
+        <StatisticMap key="5" value="43520" />
+        <StatisticMap key="6" value="10168" />
+    </Statistic>
+    <Statistic name="max">
+        <StatisticMap key="1" value="[1]" />
+        <StatisticMap key="2" value="[2]" />
+        <StatisticMap key="5" value="[5]" />
+        <StatisticMap key="6" value="[6]" />
+    </Statistic>
+    <Statistic name="mean">
+        <StatisticMap key="1" value="[1]" />
+        <StatisticMap key="2" value="[2]" />
+        <StatisticMap key="5" value="[5]" />
+        <StatisticMap key="6" value="[6]" />
+    </Statistic>
+    <Statistic name="min">
+        <StatisticMap key="1" value="[1]" />
+        <StatisticMap key="2" value="[2]" />
+        <StatisticMap key="5" value="[5]" />
+        <StatisticMap key="6" value="[6]" />
+    </Statistic>
+    <Statistic name="std">
+        <StatisticMap key="1" value="[0]" />
+        <StatisticMap key="2" value="[0]" />
+        <StatisticMap key="5" value="[0]" />
+        <StatisticMap key="6" value="[0]" />
+    </Statistic>
+</GeneralStatistics>
